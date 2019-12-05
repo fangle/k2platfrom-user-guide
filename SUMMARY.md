@@ -4,5 +4,5 @@
 
 ## 快速入门 <a id="quickstarts"></a>
 
-* [日常工作](quickstarts/day-to-day-work.md)
+* [日常操作](quickstarts/day-to-day-work.md)
 
