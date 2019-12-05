@@ -2,3 +2,7 @@
 
 * [概述](README.md)
 
+## 快速入门 <a id="quickstarts"></a>
+
+* [日常工作](quickstarts/day-to-day-work.md)
+
